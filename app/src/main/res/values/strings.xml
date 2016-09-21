@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="mock_currently_json">{\"time\":1474457591,\"summary\":\"Partly Cloudy\",\"icon\":\"partly-cloudy-night\",\"nearestStormDistance\":2,\"nearestStormBearing\":67,\"precipIntensity\":0,\"precipProbability\":0,\"temperature\":56.08,\"apparentTemperature\":56.08,\"dewPoint\":51.43,\"humidity\":0.84,\"windSpeed\":8.71,\"windBearing\":270,\"visibility\":7.24,\"cloudCover\":0.45,\"pressure\":1013.09,\"ozone\":281.65}</string>
+</resources>
